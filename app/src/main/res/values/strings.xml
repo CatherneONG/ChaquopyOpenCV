@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChaquopyOpenCV</string>
+    <string name="run_ocr">Run OCR</string>
+    <string name="ocr_text_will_appear_here">OCR Text will appear here</string>
+</resources>

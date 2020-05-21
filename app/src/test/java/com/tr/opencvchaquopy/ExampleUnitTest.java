@@ -1,4 +1,4 @@
-package com.example.textreader;
+package com.tr.opencvchaquopy;
 
 import org.junit.Test;
 

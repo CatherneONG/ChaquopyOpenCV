@@ -5,7 +5,7 @@ android {
     compileSdkVersion 29
     buildToolsVersion "29.0.3"
     defaultConfig {
-        applicationId "com.example.chaquopyopencv"
+        applicationId "com.tr.opencvchaquopy"
         python {
                     pip {
                         install "opencv-python"

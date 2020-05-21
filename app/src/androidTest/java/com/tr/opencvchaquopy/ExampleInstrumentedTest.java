@@ -1,4 +1,4 @@
-package com.example.textreader;
+package com.tr.opencvchaquopy;
 
 import android.content.Context;
 
